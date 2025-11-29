@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am an undergraudate CS&DS student at NYU. Currently I am doing research at the CN^3 lab [https://cn3laboratory.org/home.html] and the SUDCRRC [https://med.nyu.edu/centers-programs/sudden-unexplained-death-childhood-registry-research-collaborative/], where I am supervised by Joaquin Gonzalez [https://scholar.google.com/citations?hl=es&user=rcGEkDgAAAAJ&view_op=list_works&sortby=pubdate], Laura Gould [https://med.nyu.edu/faculty/laura-a-gould], and Sage Chen [https://med.nyu.edu/faculty/zhe-s-chen]. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of my studies and work, I enjoy cooking, Muay Thai, and reading blogs. 
