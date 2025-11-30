@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an undergraudate CS&DS student at NYU. Currently I am doing research at the [CN^3 lab] [https://cn3laboratory.org/home.html] and the [SUDCRRC][https://med.nyu.edu/centers-programs/sudden-unexplained-death-childhood-registry-research-collaborative/], where I am supervised by [Joaquin Gonzalez][https://scholar.google.com/citations?hl=es&user=rcGEkDgAAAAJ&view_op=list_works&sortby=pubdate],[Laura Gould][https://med.nyu.edu/faculty/laura-a-gould], and [Sage Chen][https://med.nyu.edu/faculty/zhe-s-chen]. 
+Hi! I am an undergraduate CS&DS student at NYU. Currently I am doing research at the [CN^3 lab](https://cn3laboratory.org/home.html) and the [SUDCRRC](https://med.nyu.edu/centers-programs/sudden-unexplained-death-childhood-registry-research-collaborative/), where I am supervised by [Joaquin Gonzalez](https://scholar.google.com/citations?hl=es&user=rcGEkDgAAAAJ&view_op=list_works&sortby=pubdate), [Laura Gould](https://med.nyu.edu/faculty/laura-a-gould), and [Sage Chen](https://med.nyu.edu/faculty/zhe-s-chen). 
 
-Outside of my studies and work, I enjoy cooking, Muay Thai, and reading blogs. 
+Outside of my studies and work, I enjoy cooking, Muay Thai, and reading blogs.
